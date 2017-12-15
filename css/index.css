@@ -1,1 +1,18 @@
-ul li{float:left;text-align:center;background-color:#87ceeb}
+header h1{
+    width: 100%;
+    text-align: center;
+}
+section .container{
+   width: 100%;
+    text-align: center;
+
+}
+section .qun{
+    margin: 0 auto;
+    width: 50%;
+    height: auto;
+}
+
+footer h3{
+    text-align: center;
+}
